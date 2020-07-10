@@ -7,3 +7,4 @@
 5. `Learn about flake8`
 6. `docker-compose run app sh -c "python manage.py createsuperuser"`
 7. `docker-compose run --rm app sh -c "python manage.py startapp user"`
+8. Patch change only fields provided, put change all
